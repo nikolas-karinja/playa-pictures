@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c97396b.css",
+    "main.js": "/static/js/main.9a586548.js",
+    "static/js/453.6ce8d613.chunk.js": "/static/js/453.6ce8d613.chunk.js",
+    "static/media/studio.jpg": "/static/media/studio.63db7cd0a13e121a9e5c.jpg",
+    "static/media/hero-fashion.jpg": "/static/media/hero-fashion.4935a09caefbe38fd073.jpg",
+    "static/media/jose-delgado.jpg": "/static/media/jose-delgado.b1208694a599a200bdf5.jpg",
+    "index.html": "/index.html",
+    "main.6c97396b.css.map": "/static/css/main.6c97396b.css.map",
+    "main.9a586548.js.map": "/static/js/main.9a586548.js.map",
+    "453.6ce8d613.chunk.js.map": "/static/js/453.6ce8d613.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c97396b.css",
+    "static/js/main.9a586548.js"
+  ]
+}
